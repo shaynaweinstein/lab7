@@ -1,0 +1,28 @@
+body {
+    background-color: burlywood;
+    color: black;
+    font-family: Calibri;
+    font-size: 18pt;
+    background-size: 100%;
+}
+
+body:hover {
+    background-color: blue;
+    color: magenta;
+    font-family: Calibri;
+    font-size: 18pt;
+    background-size: 100%;
+}
+
+#picture{
+    align-content: center;
+
+}
+#linkedin{
+    color:white;
+}
+
+#linkedin:hover{
+    color: magenta;
+
+}
